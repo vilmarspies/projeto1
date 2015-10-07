@@ -3,7 +3,7 @@
 ##Passos
 1. git add .
 2. git commit -m 
-3. git remote add origin https://github.com/vilmarspies/aula-git.git
+3. git remote add origin https://github.com/vilmarspies/projeto1.git
 4. git push origin master
 
 *By Vilmar Spies*
