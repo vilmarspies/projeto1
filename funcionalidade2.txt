@@ -1,0 +1,4 @@
+funcionalidade 2(function(){
+	console.log('teste');
+	console.log('ola funcionalidade 2');
+})
