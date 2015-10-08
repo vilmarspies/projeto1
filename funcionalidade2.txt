@@ -1,4 +1,8 @@
 funcionalidade 2(function(){
 	console.log('teste');
 	console.log('ola funcionalidade 2');
-})
+});
+function show()
+{
+	alert('Bem Vindo');
+}

@@ -1,1 +1,4 @@
 Push do projeto da Code Education
+
+include ./funcionalidade1.txt
+include ./funcionalidade2.txt
